@@ -1,7 +1,6 @@
 # Image-Stitching-and-Panorama-Creation-Using-SIFT-and-RANSAC-Project-Overview
 
-# Image Stitching and Panorama Creation Using SIFT and RANSAC
-Project Overview:
+### Project Overview:
 
 Developed a robust image stitching system capable of creating seamless panoramas from overlapping images. The project uses advanced computer vision techniques, including feature extraction, keypoint matching, and homography estimation, to align and blend multiple images into a unified panorama. This system demonstrates expertise in image processing, feature-based alignment, and perspective transformation.
 Key Features and Workflow:
